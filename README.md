@@ -14,5 +14,5 @@ Here are some ideas to get you started:
                       -- -- @cobbah.live on Instagram🤗 ...
 - 😄 Pronouns: Its still I alone, not met any She yet🤣 at the appointed time He will meet Her😂🤣... if you no dey barb dont ask me😜
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆...
-- 😋 Who has cooked?🙁 slide into my dm and enjoy the privilege of having super with you tonight😉 
+ 
 --
