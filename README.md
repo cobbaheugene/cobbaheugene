@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆...
  
 --
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cobbaheugne&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cobbaheugene&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cobbaheugene&theme=github_dark)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=cobbaheugene&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cobbaheugene&theme=github_dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cobbaheugene&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cobbaheugene&theme=github_dark)
