@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently enrolled in Software Development
-- 🌱 Starter with Front End Dev today... HTML is pretty cool
+- 🌱 Started with Front End Dev last week... HTML is pretty cool
 - 👯 I’ve always been passionate about meeting and working with genuises like myself😇 they inspire me
 - 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 ...
 - 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
