@@ -1,7 +1,7 @@
 ### Hey folks...itz your boy whizzkhid 🤭👋... Something Juicy worth reading👇😁 
 
 --I guess you probably wanted to know who this Cobbah, you've always heard about, really is. Worry no more cause i got you...lol😂
-**cobbaheugene/cobbaheugene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cobbaheugene/cobbaheugene** is a ✨ _special_ ✨ repository because its(this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
