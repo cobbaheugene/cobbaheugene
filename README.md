@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
 - 📫 Let's get social😎: @Cobbahlive on Telegram 
                       -- -- @cobbah.live on Instagram🤗 ...
+                     team git hub and more
 - 😄 Pronouns: It's still I alone, not met any She yet🤣 at the appointed time He will meet Her😂🤣... if you no dey barb dont ask me😜
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
  
