@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 Let's get social😎: @Cobbahlive on Telegram 
                       -- -- @cobbah.live on Instagram🤗 ...
 - 😄 Pronouns: It's still I alone, not met any She yet🤣 at the appointed time He will meet Her😂🤣... if you no dey barb dont ask me😜
-- ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆...
+- ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
  
 --
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cobbaheugne&theme=github_dark)
