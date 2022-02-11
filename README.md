@@ -3,7 +3,7 @@
 <<--I guess you probably wanted to know who this Cobbah, you've always heard about, really is. Worry no more cause i got you...lol😂
 **cobbaheugene/cobbaheugene** is a ✨ _special_ ✨ repository because its(this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:...
 
 - 🔭 I’m currently enrolled in Software Development
 - 🌱 Started with Front End Dev last week... HTML & CSS is pretty cool, currently having fun with Javascript
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
                      team git hub and more
 - 😄 Pronouns: It's still I alone, not met any She yet🤣 at the appointed time He will meet Her😂🤣... if you no dey barb dont ask me😜
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
+-  To be a man is not about the age, rather, being a man is a matter of the heart.
  
 --
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cobbaheugne&theme=github_dark)
