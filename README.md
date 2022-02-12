@@ -15,7 +15,7 @@ Here are some ideas to get you started:...
                      team git hub and more
 - 😄 Pronouns: It's still I alone, not met any She yet🤣 at the appointed time He will meet Her😂🤣... if you no dey barb dont ask me😜
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
--  To be a man is not about the age, rather, being a man is a matter of the heart.
+-  To be a man is not about the age, rather, being a man is a matter of the heart... lion's hart
  
 --
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cobbaheugne&theme=github_dark)
