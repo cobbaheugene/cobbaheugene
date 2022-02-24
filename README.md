@@ -1,16 +1,8 @@
-<<--I guess you probably wanted to know who this Cobbah, you've always heard about, really is. Worry no more cause i got you...lol😂
-**cobbaheugene/cobbaheugene** is a ✨ _special_ ✨ repository because its(this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:...
 
 - 🔭 I’m currently enrolled in Software Development
-- 🌱 Started with Front End Dev last week... HTML & CSS is pretty cool, currently having fun with Javascript
-- 👯 I’ve always been passionate about meeting and working with genuises like my they inspire me
+- 🌱 Started with Front End Dev recently... HTML & CSS is pretty cool, currently having fun with Javascript
 - 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 ...
 - 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
-- 📫 Let's get social😎: @Cobbahlive on Telegram 
-                      -- -- @cobbah.live on Instagram🤗 ...
-                     team git hub and more
 - 😄 Pronouns: It's still I alone, not met any She yet🤣 at the appointed time He will meet Her😂🤣... if you no dey barb dont ask me😜
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
 -  To be a man is not about the age, rather, being a man is a matter of the heart... lion's hart
