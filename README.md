@@ -8,13 +8,13 @@
 
 <p align= "center">
 <a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=cobbaheugene&theme=midnight-blue&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=cobbaheugene&theme=midnight-purple&hide_border=true" />
 </a>
 </p>
 
 
 <p align= "center">
 <a href="/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=midnight-blue&hide_border=true&count-private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&count-private=true" />
 </a>
 </p>
