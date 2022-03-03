@@ -8,7 +8,7 @@
 
 <p align= "center">
 <a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=cobbaheugene&theme=midnight-purple&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=cobbaheugene&theme=react&hide_border=true" />
 </a>
 </p>
 
