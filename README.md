@@ -4,6 +4,60 @@
 - 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 ...
 - 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
+
+
+###  : <br>
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</a>
+
+
+
+### I am learning: <br>
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</a>&nbsp;&nbsp;
+<!-- <a href="https://github.com/neophyte-programmer">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</a>&nbsp;&nbsp; -->
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>&nbsp;&nbsp;
+
+### Tools I work with <br>
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git-idea&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Wire-Fame-3DDC84?style=for-the-badge&logo=Wire-Frame&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Jupyter-Notebook-143?style=for-the-badge&logo=Jupyter-Notebook&logoColor=black&color=black&labelColor=green" />
+</a>&nbsp;&nbsp;
+
+
 ## <p align= "center"> Statistics </p>
 
 <p align= "center">
