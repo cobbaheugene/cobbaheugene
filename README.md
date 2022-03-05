@@ -6,7 +6,19 @@
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
 
 
-###  : <br>
+### Programming Languages : <br>
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>&nbsp;&nbsp;
+
+<a href="https://github.com/cobbaheugene">
+    <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>&nbsp;&nbsp;
+
 <a href="https://github.com/cobbaheugene">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -15,28 +27,18 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/cobbaheugene">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://github.com/cobbaheugene">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
 
 
 
-### I am learning: <br>
+### Presently Studying: <br>
 <a href="https://github.com/cobbaheugene">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>&nbsp;&nbsp;
 <!-- <a href="https://github.com/neophyte-programmer">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </a>&nbsp;&nbsp; -->
-<a href="https://github.com/cobbaheugene">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/cobbaheugene">
-    <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>&nbsp;&nbsp;
 
 <a href="https://github.com/cobbaheugene">
     <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
