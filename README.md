@@ -68,6 +68,13 @@
 </a>
 </p>
 
+## <p align= "center"> What music I am Currently listening to</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0f1tlk8vmau9e9ah5hfg2ujxu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+    
+</p>
+
+
 
 <p align= "center">
 <a href="/">
