@@ -68,7 +68,13 @@
 </a>
 </p>
 
-## <p align= "center"> What music I am Currently listening to</p>
+<p align= "center">
+<a href="/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=react&hide_border=true&count-private=true" />
+</a>
+</p>
+
+## <p align= "center"> What music I listen to</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0f1tlk8vmau9e9ah5hfg2ujxu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
     
@@ -76,8 +82,4 @@
 
 
 
-<p align= "center">
-<a href="/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=react&hide_border=true&count-private=true" />
-</a>
-</p>
+
