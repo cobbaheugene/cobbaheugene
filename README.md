@@ -6,7 +6,7 @@
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆.
 
 
-### Programming Languages : <br>
+### Technologies : <br>
 <a href="https://github.com/cobbaheugene">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </a>&nbsp;&nbsp;
