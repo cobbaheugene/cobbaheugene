@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=neophyte-programmer&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cobbaheugene&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 - 🔭 I’m currently enrolled in Software Development
 - 🌱 Started with Front End Dev recently... HTML & CSS is pretty cool, currently having fun with Javascript
 - 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 ...
