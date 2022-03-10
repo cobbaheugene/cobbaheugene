@@ -59,26 +59,24 @@
     <img src="https://img.shields.io/badge/Jupyter-Notebook-143?style=for-the-badge&logo=Jupyter-Notebook&logoColor=black&color=black&labelColor=green" />
 </a>&nbsp;&nbsp;
 
-
-## <p align= "center"> Statistics </p>
-
-<p align= "center">
-<a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user= cobbaheugene&theme=react&hide_border=true" />
-</a>
-</p>
+ <p align= "center"> Statistics </p>
 
 <p align= "center">
 <a href="/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=react&hide_border=true&count-private=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=cobbaheugene&theme=midnight-purple&hide_border=true" />
 </a>
 </p>
 
-## <p align= "center"> What music I listen to</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0f1tlk8vmau9e9ah5hfg2ujxu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-    
+<p align= "center">
+<a href="/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&count-private=true" />
+</a>
 </p>
+
+
+
+
 
 
 
