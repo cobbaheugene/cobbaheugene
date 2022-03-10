@@ -69,10 +69,18 @@
 </p>
 
 
+
 <p align= "center">
 <a href="/">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobbaheugene&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&count-private=true" />
 </a>
+</p>
+
+
+## <p align= "center"> What I listen to</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3lz79cmnz0wkfc191zqtsaayj&cover_image=true&theme=default&bar_color=2137e4)](https://github.com/kittinan/spotify-github-profile)
+    
 </p>
 
 
