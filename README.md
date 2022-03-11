@@ -79,10 +79,9 @@
 
 ## <p align= "center"> What I listen to</p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3lz79cmnz0wkfc191zqtsaayj&cover_image=true&theme=default&bar_color=2137e4)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0f1tlk8vmau9e9ah5hfg2ujxu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
     
 </p>
-
 
 
 
