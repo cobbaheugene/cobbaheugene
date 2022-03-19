@@ -5,7 +5,7 @@
 - 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆
 - 
-- added moere lines
+- fun facts ought not
 - .
 
 
