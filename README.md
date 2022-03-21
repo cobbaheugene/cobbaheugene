@@ -4,8 +4,7 @@
 - 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 and own Tesla??...
 - 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆
-- 
-- fun facts ought not
+
 - .
 
 
