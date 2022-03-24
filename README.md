@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cobbaheugene&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
-- 🔭 I am a Software Developer
-- 🌱 I go through all the rigourous process to to develop your desired software from start to finish.
-- 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 and own Tesla??...
-- 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤...
+- 🔭 I am a Software Developer <br>
+- 🌱 I go through all the rigourous process to to develop your desired software from start to finish. <br>
+- 🤔 Can someone help me out with some cool ideas of how to be the next Elon Musk😫 and own Tesla??... <br>
+- 💬 Ask me how to smash a ball in Table Tennis🏓🤣 and what you want to know about Tesla❤... <br>
 - ⚡ Fun fact: It takes patience to dissect an ant, anyways I'm still trying to see its intestine😂😆
 
 - .
