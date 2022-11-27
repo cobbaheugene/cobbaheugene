@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Web Development skills<br>🌱 I’m currently learning more about Data Science<br>👯 I’m looking to collaborate on any Software Dev. project<br>🤝 I’m looking for help with Exploring New mind blowing project ideas<br>💬 Ask me about any tech-related stuff<br>⚡ Fun fact: My favourite song is Taking Care [Remix] by Moses Bliss ft. Mercy Chinwo<br> 
+🔭 I’m currently working on my Web Development skills<br>🌱 I’m currently learning more about Data Science<br>👯 I’m looking to collaborate on any Software Dev. project<br>🤝 I’m looking for help with Exploring New mind blowing project ideas<br>💬 Ask me about any tech-related stuff<br>⚡ Fun fact: My favourite song is You Say by Lauren Daigle<br> 
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg" width="512px"/>
+<img src="[https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2Fhl08s3%2Ffrom_hello_world_to_directly_machine_learning%2F&psig=AOvVaw3wCfw_CE2eC7wfhBuEJ6Wu&ust=1669594155961000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKClxev7zPsCFQAAAAAdAAAAABAE)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cobbaheugene&icon=0&color=0)](https://visitcount.itsvg.in)
