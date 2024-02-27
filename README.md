@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m acquiring new skillsets <br> 🌱 learning ML with Python, C#, UI/UX with Figma, Front End Dev <br>👯 I’m looking to collaborate on any Software Dev. project<br> 💬 Ask me anythng you need to know in my scope of understanding <br>⚡ Fun fact: My favourite song is You Say by Lauren Daigle <br> 
+🔭 I’m acquiring new skillsets <br> 🌱 mastering ML with Python, and Front End Dev <br>👯 I’m looking to collaborate on any ML or Software Dev. project<br> 💬 Ask me anythng you need to know in my scope of understanding <br>⚡ Fun fact: My favourite song is You Say by Lauren Daigle <br> 
 
 
 ## 🌐 Socials:
@@ -14,8 +14,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cobbaheugene&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
