@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a self driven and goal-oreinted Software Developer <br> 🌱 with skills in building backend systems with Python (FAST API), and ML Research <br>👯 I’m looking to collaborate on any ML or Software Dev. project<br> 💬 Ask me anythng you need to know in my scope of understanding <br>⚡ Fun fact: My favourite song is You Say by Lauren Daigle <br> 
+🔭 I’m a self-driven and goal-oriented Software Developer <br> 🌱 with skills in building backend systems with Python (FAST API), and ML Research <br>👯 I’m looking to collaborate on any ML or Software Dev. project<br> 💬 Ask me anythng you need to know in my scope of understanding <br>⚡ Fun fact: My favourite song is You Say by Lauren Daigle <br> 
 
 
 ## 🌐 Socials:
