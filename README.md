@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Backend and Machine Learning Engineer <br> 🌱 with skills in building backend systems with Python (FAST API), and ML Research <br>👯 I’m looking to collaborate on any ML or Software Dev. project<br> 💬 Ask me anythng you need to know in my scope of understanding <br>⚡ Fun fact: My favourite songs are songs by LoveWorld music <br> 
+🔭 I’m a Backend and Machine Learning Engineer <br> 🌱 with skills in building backend systems with Python, and ML Research <br>👯 I’m looking to collaborate on any ML or Software Dev. project<br> 💬 Ask me anythng you need to know in my scope of understanding <br>⚡ Fun fact: My favourite songs are songs by LoveWorld music <br> 
 
 
 ## 🌐 Socials:
