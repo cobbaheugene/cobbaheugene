@@ -8,7 +8,7 @@ Backend & Machine Learning Engineer | Researcher | Problem Solver <br/>
 🎯 Open to collaborating on AI projects, open-source contributions, or backend development tools. <br/>
 
 🔍 What I'm up to <br/>
-Researching AI-driven solutions for water leakage detection in water distribution systems simulated with EPANET <br/>
+Researching AI-driven solutions for water leakage detection in water distribution systems simulated with EPANET at University of Ghana, Computer Science <br/>
 
 Contributing to impactful backend systems at Talent Co-Op <br/>
 
