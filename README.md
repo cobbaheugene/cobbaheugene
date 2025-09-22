@@ -5,7 +5,7 @@ Backend & Machine Learning Engineer | Researcher | Problem Solver <br/>
 🔧 I build scalable backend systems using Python and Django, with experience in PostgreSQL, MySQL, and RESTful APIs (DRF). <br/>
 🧠 I also explore the intersection of AI and real-world impact, particularly through Machine Learning and Deep Learning research. <br/>
 📚 Passionate about projects that promote learning, social good, and innovation. <br/>
-🎯 Open to collaborating on ML projects, open-source contributions, or backend development tools. <br/>
+🎯 Open to collaborating on AI projects, open-source contributions, or backend development tools. <br/>
 
 🔍 What I'm up to <br/>
 Researching AI-driven solutions for water leakage detection in water distribution systems simulated with EPANET <br/>
