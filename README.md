@@ -15,7 +15,7 @@ Contributing to impactful backend systems at Talent Co-Op <br/>
 Mentoring college students in Bioinformatics, Data Structures & Algorithms, and Python Programming <br/>
 
 💬 Let's Connect <br/>
-Ask me anything within backend dev, ML, or research — I’m always up for a meaningful conversation <br/>
+Ask me anything within backend dev, ML, or research - I’m always up for a meaningful conversation <br/>
 
 I’m especially excited about projects in education, AI for social good, and developer tools <br/> <br/>
 
