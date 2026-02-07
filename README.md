@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there, I’m Eugene Cobbah <br/>
-Backend & Machine Learning Engineer | Researcher | Problem Solver <br/>
+Backend & Machine Learning Engineer | Researcher | <br/>
 
 🔧 I build scalable backend systems using Python and Django, with experience in PostgreSQL, MySQL, and RESTful APIs (DRF). <br/>
 🧠 I also explore the intersection of AI and real-world impact, particularly through Machine Learning and Deep Learning research. <br/>
