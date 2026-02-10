@@ -1,25 +1,8 @@
 # 💫 About Me:
 👋 Hi there, I’m Eugene Cobbah <br/>
-Backend & Machine Learning Engineer | Researcher | <br/>
-
-🔧 I build scalable backend systems using Python and Django, with experience in PostgreSQL, MySQL, and RESTful APIs (DRF). <br/>
-🧠 I also explore the intersection of AI and real-world impact, particularly through Machine Learning and Deep Learning research. <br/>
-📚 Passionate about projects that promote learning, social good, and innovation. <br/>
-🎯 Open to collaborating on AI projects, open-source contributions, or backend development tools. <br/>
-
-🔍 What I'm up to <br/>
-Researching AI-driven solutions for water leakage detection in water distribution systems simulated with EPANET at University of Ghana, Computer Science <br/>
+Backend & AI/ML Engineer | Researcher | <br/>
 
 
-
-Mentoring college students in Bioinformatics, Data Structures & Algorithms, and Python Programming <br/>
-
-💬 Let's Connect <br/>
-Ask me anything within backend dev, ML, or research - I’m always up for a meaningful conversation <br/>
-
-I’m especially excited about projects in education, AI for social good, and developer tools <br/> <br/>
-
-⚡ Fun Fact: I'm most productive when LoveWorld music is playing in the background with sobolo on my desk 🎶 <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eugene-cobbah) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cobbahlive) 
