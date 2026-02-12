@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there, I’m Eugene Cobbah <br/>
-Backend & AI/ML Engineer | Researcher | <br/>
+AI/ML Engineer | Researcher | <br/>
 
 
 
